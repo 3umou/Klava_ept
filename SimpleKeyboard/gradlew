@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Simple gradlew wrapper script for testing
+exec gradle "$@"
